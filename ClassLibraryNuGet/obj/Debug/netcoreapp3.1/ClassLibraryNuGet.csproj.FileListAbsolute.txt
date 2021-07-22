@@ -1,0 +1,9 @@
+C:\Users\Student1\Desktop\ClassLibraryNuGet\bin\Debug\netcoreapp3.1\ClassLibraryNuGet.deps.json
+C:\Users\Student1\Desktop\ClassLibraryNuGet\bin\Debug\netcoreapp3.1\ClassLibraryNuGet.dll
+C:\Users\Student1\Desktop\ClassLibraryNuGet\bin\Debug\netcoreapp3.1\ClassLibraryNuGet.pdb
+C:\Users\Student1\Desktop\ClassLibraryNuGet\obj\Debug\netcoreapp3.1\ClassLibraryNuGet.csproj.AssemblyReference.cache
+C:\Users\Student1\Desktop\ClassLibraryNuGet\obj\Debug\netcoreapp3.1\ClassLibraryNuGet.AssemblyInfoInputs.cache
+C:\Users\Student1\Desktop\ClassLibraryNuGet\obj\Debug\netcoreapp3.1\ClassLibraryNuGet.AssemblyInfo.cs
+C:\Users\Student1\Desktop\ClassLibraryNuGet\obj\Debug\netcoreapp3.1\ClassLibraryNuGet.csproj.CoreCompileInputs.cache
+C:\Users\Student1\Desktop\ClassLibraryNuGet\obj\Debug\netcoreapp3.1\ClassLibraryNuGet.dll
+C:\Users\Student1\Desktop\ClassLibraryNuGet\obj\Debug\netcoreapp3.1\ClassLibraryNuGet.pdb
